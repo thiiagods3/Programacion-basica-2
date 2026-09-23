@@ -16,5 +16,5 @@ public class SalaDeCineSorround extends SalaDeCine {
 		return this.cantidadDeParlantes;
 	}
 	
-	//FUNCIONNNNOOOOOOOO
+	
 }
